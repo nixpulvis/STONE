@@ -1,6 +1,0 @@
-[submodule "STONEBREW"]
-	path = STONEBREW
-	url = git@github.com:nixpulvis/STONEBREW.git
-[submodule "stoneauth"]
-	path = stoneauth
-	url = git@github.com:nixpulvis/stoneauth
