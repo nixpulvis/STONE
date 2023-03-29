@@ -3,10 +3,10 @@
 - [`StoneAuth`](https://github.com/nixpulvis/STONE/tree/master/StoneAuth) 
   - WIP
 - [`StoneTemp`](https://github.com/nixpulvis/STONE/tree/master/StoneTemp) 
-  - HTTP
-  - BTLE?
-  - Serial
-  - LED
+  - [-] HTTP
+  - [ ] BTLE?
+  - [x] Serial
+  - [-] LED
 - [`StoneBrew`](https://github.com/nixpulvis/STONE/tree/master/StoneBrew) 
   - Blog posts following development
   - Water resistant hoousing
