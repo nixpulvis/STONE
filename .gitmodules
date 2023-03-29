@@ -1,0 +1,3 @@
+[submodule "STONEBREW"]
+	path = STONEBREW
+	url = git@github.com:nixpulvis/STONEBREW.git
